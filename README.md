@@ -8,4 +8,5 @@ This is a simple use of [Sunrise-Sunset.org's API](https://sunrise-sunset.org/ap
 - [x] ~~Initial JavaScript logic~~
 - [ ] Get Longitude and Latitude based off user
 - [ ] Get Timezone based off user
+- [ ] Convert callbacks to promises
 - [ ] Turn this into an app by creating simple home page with Express
