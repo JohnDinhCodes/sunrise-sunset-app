@@ -26,7 +26,7 @@ request(ipStackAPI, (error, response, body) => {
 
 
         } else {
-            console.log('Something went wrong, please check your internet connection');
+            console.log('Something went wrong, please check your internet connection\nAlso don\'t forget to set up your .env file');
         }
 
     });
