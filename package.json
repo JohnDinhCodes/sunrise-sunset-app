@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.1.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "request": "^2.88.0"
   },
   "devDependencies": {}
